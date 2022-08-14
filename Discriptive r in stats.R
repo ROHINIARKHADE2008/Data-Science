@@ -1,3 +1,0 @@
-#variables
-sal <- 54
-
